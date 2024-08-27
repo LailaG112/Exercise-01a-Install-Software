@@ -10,4 +10,4 @@ LailaG112
 
 BL-MSCH-C220
 
-I have installed the software on my computer as part of this exercise
+I have installed the software on my computer as a part of the exercise
